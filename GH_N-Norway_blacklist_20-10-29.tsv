@@ -1,0 +1,111 @@
+atcacgttttccgaaaacaaacaaaggttcagaaagcgaaaataaaaaaa	Asteraceae	100% BLAST to a number of genera, including Bidens, Heterosperma, Dahlia, Arnica, Relhani and Arcostis.
+atcacgttttccgaaaacaaacaacggttcagaaagcgaaaatcaaaaag	Lactuca	Matches Lactuca sativa (lettuce) and is an assumed food contaminant.
+atcacgtttttcgaaaacaaacaaaggttcagaaagcgaaaatcaaaaag	Geigeria	The genus is native to Africa and assumed a contaminant.
+atccaatttactagagacaatagtttcctttgcgagaaagg	Platycladus orientalis	Native to Asia.
+atccacttttttcaaaaaagtggttctcaaactagaacccaaaggaaaag	Sorghinae	100% BLAST to Sorhgum spp and Hemisorghum
+atccagttttccaagaacaaacaaaacaagggttcagaaagcgaaaaaagg	Cedrelopsis	100% BLAST only to Cedrelopsis (Madagascar)
+atccatgttttgagaaaacaagcggttctcgaactagaacccaaaggaaaag	BOP clade	100% BLAST to Oryza ssp. (rice). Possible food contaminant
+atccatgttttgagaaaacaagggggttctcgaactagaatacaaaggaaaag	Poa	Likely contaminant.
+atcccgttttatgaaaacaaaacaaacaggggttcagaaaatgagaaaagg	Dimocarpus longan	Tropical tree species.
+atcccgttttatgaaaacaaacaaggatttcacaaagcgagaataaataaag	Sanguisorbinae	100% Match to different species.
+atcccgttttccgaaaacaaacaaaggttcagaaaaaaag	asterids	100% Match to different general, including Nymphoides, Liparophyllum, Centaurea, Polyscias and Brunfelsia. 
+atcccgttttccgaaaacaaagaaaagttcagaaagtgataataaaataaaaaagg	Pachyrhizus erosus	100% Match to species of Pachyrhizus/Amphicarpaea. Not present in the region.
+atcccgttttctgaaaaaaagaaaaattcagaaagtgataataaaaaagg	Phaseolus	Native to the Americas.
+atcccgttttctgaaaacaaacaaaggttcagaaagcgaaaataaaaaag	Asterales	100% BLAST to Cyphia and Platyspermation, not native to Norway
+atcccttttttgaaaaaacaagtggttctcaaacaagaacccaaaagaaaag	PACMAD clade	100% BLAST only to Thysanolaena latifolia and the Australian species Thysanolaena latifolia and Spartochloa scirpoidea. Assumed contamination.
+atcccttttttgaaaaaacaagtggttttcaaactagaacccaaaggaaaag	PACMAD clade	100% BLAST only to te exotic Dichanthium annulatum, Stenotaphrum secundatum, and Blepharidachne kingii
+atcccttttttgaaaaacaagtggttctcaaaccagaacccaaaggaaaag	PACMAD clade	100% BLAST to the exotic Cynodon spp, Eustachys spp. Paspalum pauciflorum etc. Found in one negative and two samples (one with 3 reads)
+atcccttttttgaaaaacaagtggttctcaaactagaacccaaaggaaaag	Zea mays cf	100% Match to many taxa; none of them native. Including Paspalium, Arundo donax, or Zea mays. Assumed contaminant.
+atcccttttttgaaaagacaagtggttctcaaactagaacccaaaggaaaag	Zoysia	Asian/Australian grass. 100% Match to different species of Zoysia.
+atccctttttttcattttaaaaacaagtggttctcaaactagaacccaaaggaaaag	Eleusininae	100% BLAST to Eleucine spp. and Cynodon dactylon
+atccggttcatggagacaatggtttcttctcctaggataggaaggg	Larix	Likely contaminant.
+atccggttttctgaaaacaaacaaggattcagaaagcaataataaaaaagaatag	Cannabis sativa	Likely contaminant. Not common in the region.
+atccggttttctgaaaacaaacaaggattcagaaagcaataataaatag	Humulus	Likely contaminant.
+atccggttttctgaaaacaaacaagggttcagaaagcgataatacaaaag	Morus	Likely contaminant. Not common in the region.
+atccggttttctgaaaacaaacaagggttcagaaggcgataataaaaaag	Moraceae	Likely contaminant. Not common in the region.
+atccgtattataggaacaataattttattttctagaaaagg	Taxus	100% BLAST to Taxus spp. (many sequences).
+atccgtgttttgagaaaacaagagggttctcgaactagaatacaaaggaaaag	Poeae	100% BLAST only to the exotic Poa aroleuca, P. jubuta, Milium schmidtianum and Acena eriantha. Only found in samples from Kuutsajavri
+atccgtgttttgagaaaacaagcggttctcgaactagag	Pooideae	100% BLAST to Stipa spp, Trikeraia spp and other exotic grasses. Also in a negative control
+atccgtgttttgagaaaacaagggggttttccaactagaatacaaaggaaaag	Holcus	Common plant of Eurasia and Africa.
+atccgtgttttgagaggggggttctcgaactagaatacaaaggaaaag	Avena	100% BLAST to Avena spp. Common on negative controls. Food contaminant
+atccgtttttattaaaacaaacaagtgttcagaacgggataataaaaaagatag	Pilea	100% BLAST only to Pilea microphylla (3 sequences) and P. succulenta (1 sequence). South America
+atcctattattttacgaaaataaacataaacaaaggttcagcaagcgagaataataaaaaaggaaag	Malvoideae	100% BLAST to Malva, Abutilon and Hibiscus, not native in Northern Norway.
+atcctattttacgagaacaaaaacaaacaaggggtcagaacgggagaaaaaaag	Anacardiaceae	100% Match against Mangifera, Mango, food contaminant.
+atcctattttatgagaacaaaaacaaacaaggggtcagaacgggagaaagag	Anacardiaceae	100% Match to Rhus, Pistacia and Cotinus, not native in Northern Norway.
+atcctattttatgagaacaaaaacaaacaaggggtcataacgggagaaaaag	Anacardiaceae	Matches four Anacardiaceae genera, Schinus, Lithrea, Mauria and Euroschinus, not native to Norway.
+atcctattttccaaaaacaaacaaaggcccagaaggtgaaaaagg	Apioideae	100% BLAST to the exotic Pimpinella bicknelli, Aegopodium podagraria, Dacus crinitus, Coriander sativum, Aulacospermum stylosum and Tauschia texana. Most likely food contaminant (koriander)
+atcctattttccaaaaacaaagaaaagttcagaaagcgagaataaaaaaag	Indigofereae	Likely contaminant. Not common in the region.
+atcctattttccacaaacaaaggttcagaaaacgaaaacaag	Apocynaceae	Taxa not common in the region.
+atcctattttccgaagacaaagaaaagttcagaaagcgagaatataaaaag	Canavalia	A tropical genus not native to Norway.
+atcctattttctgaaaacaaataaaggttcagaaaaaaag	Capsicum	Bell pepper, food contaminant
+atcctcttttccaagaacaaacaagggttcagaaagcaaaaaggggg	Rutaceae	100% Match to Melicope, Acronychia and Boronia. Not native to Norway.
+atcctgggttacgcaaacaaaccagagtttagaaagcgg	Brassicaceae	100% Match to species of Sibara, Diplotaxis, Streptanthus, Caulanthus. Not common in the region.
+atcctgggttacgcgaacaaaacagagtttagaaagcgg	Brassicaceae	100% BLAST to Brassica oleracea (cabbage, cauliflower, etc) and an assumed food contaminant.
+atcctgggttacgcgaacaaaccagagtttaaaaagcgg	Brassicaceae	100% Match to species of Chilocardamum, Pringlea, Sarcodraba, Sibara etc. Not common in the region.
+atcctgtgttcagaaaacaaggttcagaaagcgagaatcaaaaacataaaaag	Annonaceae	Common in tropics.
+atcctgtttagcaagtggcgg	Lycopodioideae	Likely contaminant.
+atcctgttttacaagaacaaacaagggttcagaaagcgaaaaaggg	Meliaceae	Tropical family
+atcctgttttacgaaaaccaacaaaacaataagggttcataaagcgcgaataaaaaaaggatag	Myrteae	Matches Psidium (Guava) and Myrcia. Not native to Norway.
+atcctgttttacgaaaaccaatagcagttcataaagcgagaatacaaaaagaatag	Melastomatoideae	Not native to Norway.
+atcctgttttacgaaaactaacagcagttcataaagcgagaatacaaaaagaatag	Melastomatoideae	100% BLAST to the exotics Blakea spp (many sequences), Barthea barthei, Triolena spicata and Chalybea. 
+atcctgttttacgagaacaaacaaaacaagagttcagaaagcgagaaaagggg	Caricaceae	100% Match to a tropical family that includes Carica papaya, assumed contaminant.
+atcctgttttacgagaataaaacaaagcaaacaagggttcagaaagcgagaaaagg	Acer	100% BLAST to many sequences of Acer spp. Common in negative control.
+atcctgttttacgagcaattcaaaaaggaatcaaaaatag	Helianthemum	100% BLAST only to three sequences of three species of Helianthemum. Only in 4 samples. Assumed false positive
+atcctgttttatgaaaacaaacaaggatttcacaaagcgagaataaataaag	Aceana	100% BLAST only to Aceana spp. Native to the southern hemisphere
+atcctgttttatgaaaataagggttcataaagcgataataaaaaag	Ulmaceae	100% Match to Ulmus in arcborbryo but 100% BLAST to Zelcova spp (many sequences).
+atcctgttttatgagaacaaaataaacaagggttcagaaagcgagaaaagg	Koelreuteria	Native to southern and eastern Asia.
+atcctgttttcaaaaaacaaacaaagattcataaagacagaaataaagg	Malpighiaceae	Native to tropical regions, assumed contaminant.
+atcctgttttcagaaaacaagggttcagaaagcgagaaccaaaaaaag	Lauraceae	Avocado; food contaminant.
+atcctgttttcagaaaacaagggttcagaaagcgagaaccaaaaaaaggatag	Persea	Avocado; food contaminant.
+atcctgttttccgaaaacaaaaaagattcataaagacagaataaaacag	Linaceae	Likely contaminant. Not common in the region.
+atcctgttttccgaaaacaaacaaaagttcagaaaaaaag	Convolvulaceae	Matches a number of genera not native to Northern Norway, including Ipomoea, Convolvulus, Dicranostyles and Merremia.
+atcctgttttccgaaaacaaacaaaggttcagaaaaaaag	Solanaceae	100% Match to species of Nicotiana, Luisia, Brunfelsia, etc.
+atcctgttttccgaaaacaaacaaaggttcagaaggcgaaaaaagg	Araliaceae	Taxa not common in the region.
+atcctgttttccgaaaacaaacaaagtaaagacagaataaaaaaaaagggggg	Hevea brasiliensis	Latex, possibly from gloves
+atcctgttttccgaaaacaaagaaaagttcataaagtgataataaaaaagg	Fabaceae	Includes Glycine soja, assumed food contaminant.
+atcctgttttccgaaaacaaaggttcagaagcgaaaaagg	Strychnos	Tropical tree and lianas.
+atcctgttttccgaaaacaaccaagggttcagaaaacgataataaaaaaag	Vitaceae	100% BLAST to Vitis. Possible food contaminant. Not native to Norway.
+atcctgttttccgaaaaccaagaagagttcagaaggggagaataaaaaaag	Caesalpinioideae	100% BLAST to a range of genera, including Parkinsonia, Delonix, Bussea and Peltophorum. Not native to Norway.
+atcctgttttcggaaaaccaagaagagttcagaaagggagaataaaaaaag	Mimoseae	100% Match to Prosopis and Xerocladia, not native to Norway.
+atcctgttttctaaaaacaaataagggttcataaagcgagaatcaaaaag	Juglandaceae	The genera Pterocarya and Juglans, not native to Northern Norway
+atcctgttttctcaaaacaaaggttcaaaaaaag	Salvia	100% Match to Salvia, genus not native to Northern Norway.
+atcctgttttctcaaaacaaaggttcaaaaaacgaaaaaaaaaaag	Lamiaceae	100% BLAST to a number genera including: Ocimum, Salvia, Platostoma and Lavandula, not native to Northern Norway.
+atcctgttttctcaaaacaaaggttcaaaaaacgaaaaaaaaaag	Lamiaceae	100% BLAST to a number genera including: Ocimum, Salvia, Platostoma and Lavandula, not native to Northern Norway.
+atcctgttttctcaaaacaaaggttcaaaaaacgaaaaaaaaag	Lamiaceae	Matches to the genera Ocimum, Syncolostemon, Salvia and Hyptis, which are not native to Northern Norway.
+atcctgttttctcaaaacaaaggttcaaaaaacgaaaaaaaag	Lamiaceae	Matches to the genera Ocimum, Salvia, Callicarpa and Plectranthus, which are not native to Northern Norway
+atcctgttttctcaaaacaaaggttcagaaaacgccaaaggcg	Lantaneae	100% BLAST to Phyla, Lippia and Lantana. Not native to Norway.
+atcctgttttctgaaaacaaacaaaggttcagaaaaaaag	Solanoideae	100% Match to species of Solanum, Physalis, Anisodus, etc.
+atcctgttttctgaaaacaaaccaaggttcagaaaaaaag	Solanoideae	100% Match to different species of Solanum and Lycopersicon.
+atcctgtttttcgaaaacaaacaaaggttcgtaaagacagaatcagaatacaaaaacaaaag	Saliceae	100% Match to taxa such as Casearia decandra, Laetia procera, Zuelania guidonia, etc that do not occur in the region.
+atcctgtttttctaaaacaaacaaagattccgaaagcgaaaataaaaaaag	Theaceae	100% BLAST to Camellia spp and a few other exotics. Common also in negative control. 
+atccttattttgagaaaacaaaggtttataaaactagaatttaaaag	Musaceae	100% Match to species of Musa and Musella.
+atccttattttgagaaaacaagggtttataaaactagaataaaaaag	Commelinids	100% BLAST to a number of taxa, including Cocos nucifera (coconut)
+atccttctttccgaaaacaaataaataaaagttcagaaagttaaaatcaaaaaag	Medicago	100% BLAST to Medicago spp. Introduced in Norway. Most likely contamination.
+atccttctttccgaaaacaaatcaaagttcagaaagtgaaaatcaaaaaag	Lens	Matches lentils, assumed food contaminant.
+atccttctttctgaaaacaaataaaagttcagaaagtgaaaatcaaaaaag	Pisum	100% Match only to Pisum saticum (many sequences) and a few other Pisum spp.. Assumed food contaminant,
+atcctttttccgaaaaaaaaaaagg	Cucurbitaceae	Matches Cucumis, Bryonia and Zehneria, assumed food contaminant.
+atcctttttccgaaaaaaaaaagg	Cucurbitaceae	100% BLAST to Trichosanthes, Cucumis, Zehneria and Bryonia. Not native to Norway
+atcctttttccgaaaaaaaaagg	Cucurbitaceae	100% BLAST to Trichosanthes, Cucumis, Zehneria and Bryonia. Not native to Norway
+atcctttttccgaaaaaaaagg	Cucurbitaceae	100% BLAST to Trichosanthes, Cucumis. Not native to Norway
+atcctttttccgaaaacaaaaaaaag	Cucurbitaceae	Matches a number of Cucurbitaceae genera, including, Zehneria, Cucurbita, Luffa and Corallocarpus. 
+atcctttttccgaaaacaaaaaaag	Cucurbitaceae	Matches a number of Cucurbitaceae genera, including, Momordica, Cucurbita, Cayaponia and Citrullus. 
+atccttttttatgaaaacaaagaagggttcagaaagcgataataaaaaaggaaag	Pouzolzia zeylanica	100% BLAST only to Pouzolzia zeylanica (exotic Urticaceae)
+atccttttttccgaaaaaaaag	Cucumis	100% Match to Cucumis spp. (cucumber). Found in one sample each of Rottjern, A-tern and Lauvås; not in negative control.
+atcttcttttccaaaaccaaaccccactcaaggggttaacaaagcgaaaaaggg	Crassula	100% BLAST to Crassula spp. Found in both samples and negative control. Crassula aquatic native north to Nordland. Suspect this may be contamination.
+atctttattttgagaaaacaaaaactagaataaaaaag	Crocoideae	100% Match against Tritonia, Crocus, Crocosmia and Schizostylis. Not native to Norway
+atctttattttgagaaaacaagggtttataaaactagaataaaaaaag	Petrosaviidae	Suborder match, includes Arenga, Bactiris, Oenocarpus, Astrocaryum, Kentiopsis, Phoenix, etc. 
+atctttatttttagaaaaacaagggttttcttttaaaaactagaataaaaagg	Nolinoideae	100% BLAST to Convallaria spp, Rohdea chinensis, Nolina spp, Dasylirion spp, Beaucarnea spp., so sequence shared among families. May be representing the native Convallaria majalis, which might be found above forest line in S Norway and is native north to Rana. Also in two negatives.
+atctttatttttataaaaacaagggttttaatttaaaaactagactagaataaaaaag	Anthericum ramosum	100% BLAST only to Anthericum ramosum. (central Europe).
+atctttattttttgaaaaacaaggttttaaaaaatagaataaaaagg	Allium sativum	BLAST 100% to Allium sativum (garlic)
+atcttttttgggggaaaacaagggtataaaactagaataaaaagg	Ananas comosus	Pineapple. Food contaminant
+ctccttctttccaaaaggaagaataaaaaag	Polygonoideae	100% Match to Calligonum and Rheum.
+ctcctttcaaaaaaaaaaaagcaaaaaataagggttcagaaagcaagaataaaagaaaag	Cactaceae	Cactaceae, common in negative controls. Assumed contaminant
+ctcctttcaaaaaaaaaaagcaaaaaataagggttcagaaagcaagaataaaagaaaag	Cactaceae	Cactaceae, common in negative controls. Assumed contaminant
+ctcctttcaaaaaaaaaagcaaaaaataagggttcagaaagcaagaataaaagaaaag	Cactaceae	Cactaceae, common in negative controls. Assumed contaminant
+ctcctttcaaaaaaaaagcaaaaaataagggttcagaaagcaagaataaaagaaaag	Cactaceae	Cactaceae, common in negative controls. Assumed contaminant
+ctcctttttcaaaaggaaaaaagaataaaaaaaaag	Grubovia dasyphylla	100% BLAST only to the exotic Grubovia dasyphylla. Low complexity sequence with homopolymers found in 7 replicates.
+ctcctttttcaaaagtaaaaaaaaaaaaatacggattcagaaagcaagaataaaaaaaag	Amaranthus	100% BLAST only to Amaranthus spp. Assumed false positive
+ctccttttttcttttcaaaagaaaaggttcagaaagcaagaaaaaaag	Bougainvillea	Native to South America
+ctcctttttttgtctccctttttcaaaagacaaaaaggattcagaaagcaagaataaaacag	Sagina	100% Match to species of Sagina and Colobanthus.
+tcccttttttgaaaaacaagtggttctcaaactagaacccaaaggaaaag	Orcuttia pilosa	100% Match to many taxa; none of them native. Including Paspalium, Arundo donax, or Zea mays. Assumed contaminant.
+tccttattttgagaaaacaaaggtttataaaactagaatttaaaag	Musa ornata	Food contaminant. Species does not occur in the region.
